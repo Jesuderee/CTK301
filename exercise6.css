@@ -11,7 +11,7 @@ body { background-color: #999999; }
 }
 
 header {
-  grid-column: span 120;
+  grid-column: span 12;
   background-color: #ff0000;
 }
 
@@ -50,7 +50,7 @@ main {
 
 
 aside {
-  grid-column: span 3;
+  grid-column: span 2;
   background-color: blue;
   padding-left: 24px;
   color: white;
